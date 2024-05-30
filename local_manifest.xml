@@ -3,11 +3,13 @@
 <manifest>
         <remote name="Kader Bava"
         fetch="https://github.com/kaderbava" />
+        <remote name="Bava"
+        fetch="https://gitlab.com/kaderbava" />
         <remote name="Hans982"
         fetch="https://github.com/Hans982" />
 
 
         <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="Hans982" revision="14" />
-        <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="Kader Bava" revision="14" />
+        <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="Bava" revision="14" />
         <project path="android/kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="Kader Bava" revision="14" />
 </manifest>
