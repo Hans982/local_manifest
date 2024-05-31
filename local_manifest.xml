@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-        <remote name="KaderBava"
-        fetch="https://github.com/kaderbava" />
-        <remote name="Bava"
-        fetch="https://gitlab.com/kaderbava" />
-        <remote name="Hans982"
-        fetch="https://github.com/Hans982" />
+
+          <remote name="hans982"
+          fetch="https://github.com/Hans982" />
+          <remote name="kaderbava"
+          fetch="https://gitlab.com/kaderbava" />
+          <remote name="kdbava"
+          fetch="https://github.com/kaderbava" />
+
+        <!-- Sync trees -->
+        <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="hans1982" revision="14" />
+        <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="kaderbava" revision="14" />
+        <project path="path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="kdbava" revision="14" />
 
 
-        <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="Hans982" revision="14" />
-        <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="Bava" revision="14" />
-        <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="KaderBava" revision="14" />
 </manifest>
