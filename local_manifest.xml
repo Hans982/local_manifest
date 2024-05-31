@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-        <remote name="Kader Bava"
+        <remote name="KaderBava"
         fetch="https://github.com/kaderbava" />
         <remote name="Bava"
         fetch="https://gitlab.com/kaderbava" />
@@ -11,5 +11,5 @@
 
         <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="Hans982" revision="14" />
         <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="Bava" revision="14" />
-        <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="Kader Bava" revision="14" />
+        <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="KaderBava" revision="14" />
 </manifest>
