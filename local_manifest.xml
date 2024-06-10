@@ -7,7 +7,7 @@
           fetch="https://gitlab.com/LeCmnGend" />
 
 
-        <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="Hans982" revision="14" />
+        <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="Hans982" revision="lineage-21" />
         <project path="vendor/realme/RMX1971" name="vendor_realme_RMX1971" remote="Hans982" revision="14" />
         <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="Hans982" revision="14-r5p" />
 
