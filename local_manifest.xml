@@ -3,6 +3,8 @@
 <manifest>
         <remote name="Hans982"
         fetch="https://github.com/Hans982" />
+        <remote name="LeCmnGend"
+          fetch="https://gitlab.com/LeCmnGend" />
 
 
         <project path="device/realme/RMX1971" name="device_realme_RMX1971" remote="Hans982" revision="14" />
