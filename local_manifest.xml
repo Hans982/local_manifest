@@ -12,5 +12,5 @@
         <project path="kernel/realme/sdm710" name="android_kernel_realme_sdm710" remote="Hans982" revision="14-r5p" />
 
         <!-- Proton-Clang v14.0.0 Toolchain -->
-        <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="LeCmnGend" revision="clang-14" />
+        <project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="LeCmnGend" revision="clang-14" />
 </manifest>
